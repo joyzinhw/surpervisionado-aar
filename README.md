@@ -18,7 +18,7 @@ git clone https://github.com/joyzinhw/surpervisionado-aar
 2° open folder in terminal
 
 ```
-cd arr
+cd arr-super
 ```
 
 3° create a folder
