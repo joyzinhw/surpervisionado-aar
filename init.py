@@ -15,7 +15,7 @@ if __name__ == "__main__":
     # dataframes para os aruivos essay-br e prompts no diretório essays
     # notas_zero = read_notazero()
     prompts = read_prompts()
-    corpus = ['balanced-training']
+    corpus = ['training','testing','training']
     for c in corpus:
         notas = read_set(c)
         #notas_todas = read_corpus()
